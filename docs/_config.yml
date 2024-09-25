@@ -1,0 +1,16 @@
+title: WISDM
+theme: minima
+author: Apex Resource Management Solutions
+email: info@apexrms.com
+header_pages:
+  - index.md
+  - getting_started.md
+  - reference.md
+collections:
+  scenarios:
+    output: true
+  library:
+    output: true
+  project:
+    output: true
+  
