@@ -7,7 +7,7 @@ permalink: /
 
 # **WISDM** SyncroSim Package
 <img align="right" style="padding: 13px" width="180" src="assets/images/logo/wisdm-sticker.png">
-[![GitHub release](https://img.shields.io/github/v/release/ApexRMS/wisdm.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/wisdm/releases/)    <a href="https://github.com/ApexRMS/wisdm"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png">
+[![GitHub release](https://img.shields.io/github/v/release/ApexRMS/wisdm-v1.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/wisdm-v1/releases/)    <a href="https://github.com/ApexRMS/wisdm-v1"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png">
 <br>
 
 ## Workbench for Integrated Species Distribution Modeling 
